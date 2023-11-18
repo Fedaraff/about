@@ -1,9 +1,8 @@
 
 var colours=new Array('#fc4ce5');
-//var colours=new Array('#f00', '#f06', '#f0f', '#f6f', '#f39', '#f9c');
 var minisize=10; 
 var maxisize=20; 
-var hearts=100; 
+var hearts=1000; 
 var over_or_under="over"; 
 
 var x=ox=400;

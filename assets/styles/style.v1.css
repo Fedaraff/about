@@ -152,6 +152,8 @@ img, svg {
     background-color: rgba(240, 177, 50, 1);
 }
 
+
+
 .bg-dnd {
     --tw-bg-opacity: 1;
     background-color: rgba(242, 63, 66, 1)
@@ -422,8 +424,7 @@ img, svg {
     right: 1px
 }
 .-right-0{
-    /* right: 187px */
-    right: 1px
+    right: 8px
 }
 .-right-2{
     right: 1rem
