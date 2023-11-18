@@ -384,7 +384,6 @@ img, svg {
     width: 287px;
     height: 114px;
     border-radius: 13px 13px 0px 0px;
-    /* background-image: url(https://xdextazzz.ru/assets/banner.gif); */
 }
 
 .Ellipse{
@@ -421,10 +420,10 @@ img, svg {
 
 .-right-1 {
     /* right: 187px */
-    right: 1px
+    right: 20px
 }
 .-right-0{
-    right: 8px
+    right: 25px
 }
 .-right-2{
     right: 1rem
