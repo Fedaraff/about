@@ -348,6 +348,10 @@ img, svg {
     min-width: 18rem
 }
 
+.max-w-11{
+    max-width: 290px;
+}
+
 .p-4 {
     padding: 1rem;
     border-radius: 15px;
